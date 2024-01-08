@@ -1,5 +1,3 @@
-
-
 # Analog Clock
 
 This project highlights a simple interactive and dynamic Analog Clock created using HTML, CSS, and Vanilla JavaScript.
@@ -7,6 +5,28 @@ This project highlights a simple interactive and dynamic Analog Clock created us
 ## Description
 
 The Analog Clock project provides a visually appealing representation of the current time with interactive clock hands for seconds, minutes, and hours. The clock also includes indicators for each hour and a toggle button to switch between light and dark modes.
+
+## Table of Contents
+
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Project Structure](#project-structure)
+- [Clock Functionality](#clock-functionality)
+- [Dark Mode Toggle](#dark-mode-toggle)
+- [Development](#development)
+- [License](#license)
+- [Author](#author)
+- [Screenshots](#screenshots)
+
+## Screenshots
+
+1.Screenshot1(Light Mode)
+
+<img src="screenshots/screenshot1.PNG" width="350px">
+
+2.Screenshot2(Dark Mode)
+
+<img src="screenshots/screenshot2.PNG" width="350px">
 
 ## Features
 
@@ -52,4 +72,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - **Hosea Nganga**
 
 Feel free to explore, use, and contribute to this Analog Clock project!
-
